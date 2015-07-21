@@ -2,7 +2,7 @@
   "name": "ajax-request",
   "main": "./lib/ajax-request",
   "version": "0.0.0",
-  "description": "Allow you to test your ajax requests inside atom",
+  "description": "Allow you to test your ajax requests inside atom.",
   "keywords": [
       "ajax",
       "request",
