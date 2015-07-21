@@ -1,15 +1,15 @@
 {
   "name": "ajax-request",
   "main": "./lib/ajax-request",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Allow you to test your ajax requests inside atom.",
   "keywords": [
-      "ajax",
-      "request",
-      "API",
-      "test",
-      "POST",
-      "GET"
+    "ajax",
+    "request",
+    "API",
+    "test",
+    "POST",
+    "GET"
   ],
   "activationCommands": {
     "atom-workspace": "ajax-request:toggle"
