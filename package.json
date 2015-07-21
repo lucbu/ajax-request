@@ -1,0 +1,25 @@
+{
+  "name": "ajax-request",
+  "main": "./lib/ajax-request",
+  "version": "0.0.0",
+  "description": "Allow you to test your ajax requests inside atom",
+  "keywords": [
+      "ajax",
+      "request",
+      "API",
+      "test",
+      "POST",
+      "GET"
+  ],
+  "activationCommands": {
+    "atom-workspace": "ajax-request:toggle"
+  },
+  "repository": "https://github.com/lucbu/ajax-request",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
